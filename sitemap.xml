@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.hyannerojas.adv.br/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.hyannerojas.adv.br/assets/img/dra-hyanne-rojas-advogada.jpg</image:loc>
+      <image:title>Dra. Hyanne Rojas, advogada em Luís Eduardo Magalhães – BA</image:title>
+    </image:image>
+  </url>
+</urlset>

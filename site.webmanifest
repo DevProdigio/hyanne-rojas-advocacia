@@ -1,0 +1,13 @@
+{
+  "name": "Dra. Hyanne Rojas · Advocacia",
+  "short_name": "Hyanne Rojas",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#14110E",
+  "theme_color": "#14110E",
+  "icons": [
+    { "src": "assets/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
